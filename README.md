@@ -1,4 +1,4 @@
-### BSIT OJT General Assembly[BSIT OJT General Assembly]
+# BSIT OJT General Assembly[BSIT OJT General Assembly]
 
 ### PRESENTATION OF DOCUMENTS
 
