@@ -1,40 +1,40 @@
 # [BSIT OJT General Assembly](https://www.facebook.com/BSITSociety.PLMun/videos/582452264185304)
 
-### PRESENTATION OF DOCUMENTS
+## PRESENTATION OF DOCUMENTS
 
-## PRE - refers to the form to be submitted before the start of the work as an OJT.
+### PRE - refers to the form to be submitted before the start of the work as an OJT.
 - `disccused @ 2:30`
 
-## (Memorandum Of Agreement)MOA
+### Memorandum Of Agreement (MOA)
 - `discussed @ 4:45`
 
-## Endorsment letter
+### Endorsment letter
 - `discussed @ 2:57`
 
-## OJT training program
+### OJT training program
 -  `discussed @ 3:10`
 
 ## MID - refers to continuous, consistent and or progressive submission of forms in any mode of frequency during the working days as a OJT.
  - `disccused @ 3:19`
 
-## discussed @ 3:21
--weekly accomplishment report / weekly journal
--weekly videos of personal testimony of weekly activity.
+### weekly accomplishment report / weekly journal
+### weekly videos of personal testimony of weekly activity.
+-`discussed @ 3:21`
 
-## discussed @ 3:27
-POST - refers to the form needed to be submitted after or even a certain weeks or days before the end of the semester to give an allowance time for encoding of grades 
+## POST - refers to the form needed to be submitted after or even a certain weeks or days before the end of the semester to give an allowance time for encoding of grades 
+- `discussed @ 3:27`
 
-## discussed @ 3:28
--Photo Gallery
+### Photo Gallery
+- `discussed @ 3:28`
 
-## discussed @ 3:31
-- Summary Report
+### Summary Report
+- `discussed @ 3:31`
   
-## discussed @ 3:34
-- Performance Evaluation Sheet
+### Performance Evaluation Sheet
+-  `discussed @ 3:34 `
 
-## discussed @ 4:48
-### PRECEPTS
+## PRECEPTS
+- `discussed @ 4:48 `
 
-## discussed @ 4:54
-- Program Time Frame
+###  Program Time Frame
+-  `discussed @ 4:54`
