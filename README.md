@@ -2,20 +2,20 @@
 
 ### PRESENTATION OF DOCUMENTS
 
-## disccused @ 2:30
-PRE - refers to the form to be submitted before the start of the work as an OJT.
+## PRE - refers to the form to be submitted before the start of the work as an OJT.
+- `disccused @ 2:30`
 
-## discussed @ 4:45
-- MOA
+## (Memorandum Of Agreement)MOA
+- `discussed @ 4:45`
 
-## discussed @ 2:57
-- Endorsment letter
+## Endorsment letter
+- `discussed @ 2:57`
 
-## discussed @ 3:10
-- OJT training program
+## OJT training program
+-  `discussed @ 3:10`
 
-## disccused @ 3:19
-MID - refers to continuous, consistent and or progressive submission of forms in any mode of frequency during the working days as a OJT.
+## MID - refers to continuous, consistent and or progressive submission of forms in any mode of frequency during the working days as a OJT.
+ - `disccused @ 3:19`
 
 ## discussed @ 3:21
 -weekly accomplishment report / weekly journal
